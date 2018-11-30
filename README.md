@@ -28,9 +28,18 @@ This project was completed as part of the &quot;Smart Devices&quot; Course of th
 - We created a symbol for Operational Amplifier (LTC1050) and the RN2483 LoRa Module (RN2483\_Breakout) using KiCAD&#39;s symbol editor. We then assigned the footprint for the OpAmp and assigned an 8-pin socket as the footprint of the RN2483 LoRa Module.
 
 - We drew the circuit diagram for the OpAmp Signal conditioning circuit (for impedance matching). The gas sensor was modelled as a resistor (RSensor1) in the circuit diagram. The footprint of the gas sensor was assigned to the TO-5-4 package (which is a casing in which the nanoparticle gas sensor will be put).
-- The I/O of the Arduino Shield sockets were connected to RN2483\_Breakout and to the output of the signal conditioning circuit.
 
 ![alt text](https://github.com/MOSH-Insa-Toulouse/Alami_Powar_Gas_Sensor_Shield/blob/master/Images/Schematic%20OPAmp.PNG)
+
+
+- The I/O of the Arduino Shield sockets were connected to the RN2483 LoRa Module and to the output of the impedance matching circuit.
+
+![alt text](https://github.com/MOSH-Insa-Toulouse/Alami_Powar_Gas_Sensor_Shield/blob/master/Images/RN2483.PNG)
+ 
+ 
+ ![alt text](https://github.com/MOSH-Insa-Toulouse/Alami_Powar_Gas_Sensor_Shield/blob/master/Images/Arduino%20Connectors.PNG)
+
+
 
 
 - Schematic components
@@ -51,3 +60,11 @@ This project was completed as part of the &quot;Smart Devices&quot; Course of th
 - We set design rules and set the track width of 0.8 mm and 1 mm for voltages
 - We added a Ground Plane on the back
 - Finally routed each components by wires
+
+![alt text](https://github.com/MOSH-Insa-Toulouse/Alami_Powar_Gas_Sensor_Shield/blob/master/Images/PCB%202.PNG)
+
+![alt text](https://github.com/MOSH-Insa-Toulouse/Alami_Powar_Gas_Sensor_Shield/blob/master/Images/PCB1.PNG)
+
+![alt text](https://github.com/MOSH-Insa-Toulouse/Alami_Powar_Gas_Sensor_Shield/blob/master/Images/PCB%203D.PNG)
+
+![alt text](https://github.com/MOSH-Insa-Toulouse/Alami_Powar_Gas_Sensor_Shield/blob/master/Images/PCB_3D_2.PNG)
