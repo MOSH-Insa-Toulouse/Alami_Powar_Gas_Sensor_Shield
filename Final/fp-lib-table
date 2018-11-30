@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name Socket_Arduino_Uno)(type KiCad)(uri "$(KIPRJMOD)/Socket_Arduino_Uno.pretty")(options "")(descr ""))
+  (lib (name mes_empreintes)(type KiCad)(uri ${KIPRJMOD}/mes_empreintes)(options "")(descr ""))
+  (lib (name KiCAD)(type KiCad)(uri U:/KiCAD)(options "")(descr ""))
+  (lib (name RN2483-RN2903_Breakout)(type KiCad)(uri ${KIPRJMOD}/RN2483-RN2903_Breakout.pretty)(options "")(descr ""))
+  (lib (name RN2483Final)(type KiCad)(uri U:/MOSSSSHHHH/KiCADRamesh/KiCAD/RN2483Final)(options "")(descr ""))
+)

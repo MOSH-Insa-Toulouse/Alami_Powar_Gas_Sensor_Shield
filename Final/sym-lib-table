@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name New_LibraryOPamp)(type Legacy)(uri U:/KiCAD/New_LibraryOPamp.lib)(options "")(descr ""))
+  (lib (name RN2483)(type Legacy)(uri U:/KiCAD/RN2483.lib)(options "")(descr ""))
+  (lib (name KiCAD-rescue)(type Legacy)(uri ${KIPRJMOD}/KiCAD-rescue.lib)(options "")(descr ""))
+)
