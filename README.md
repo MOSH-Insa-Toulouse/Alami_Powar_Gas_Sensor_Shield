@@ -51,6 +51,8 @@ This project was completed as part of the &quot;Smart Devices&quot; Course of th
 - The resistor R5 and the capacitor C4 is a low-pass filter at the output of the assembly.
 - The Rsensor1 - represents the gas sensor
 
+
+
 1. **PCB Footprint Layout**
 
 - Design Procedure
