@@ -30,6 +30,9 @@ This project was completed as part of the &quot;Smart Devices&quot; Course of th
 - We drew the circuit diagram for the OpAmp Signal conditioning circuit (for impedance matching). The gas sensor was modelled as a resistor (RSensor1) in the circuit diagram. The footprint of the gas sensor was assigned to the TO-5-4 package (which is a casing in which the nanoparticle gas sensor will be put).
 - The I/O of the Arduino Shield sockets were connected to RN2483\_Breakout and to the output of the signal conditioning circuit.
 
+![alt text](https://github.com/MOSH-Insa-Toulouse/Alami_Powar_Gas_Sensor_Shield/blob/master/Images/Schematic%20OPAmp.PNG)
+
+
 - Schematic components
 
 - The input resistor R1 - protects amplifier from electrostatic discharges.
